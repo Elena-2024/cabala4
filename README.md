@@ -1,0 +1,1 @@
+Aplicacioon calculo de cabala 
